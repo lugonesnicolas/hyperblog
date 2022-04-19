@@ -4,11 +4,10 @@ Peroooo ehhh
 
 Hoy hablaremos de mi, mi vida y obra maestra.
 
-<<<<<<< HEAD
-=======
 Experimento 1
 
->>>>>>> 815fbce (Experimento 1)
+Experimento 2
+
 Master 1
 
 Master 2
